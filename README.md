@@ -1,6 +1,7 @@
 # Learn Blockchains by Building One
 
-This is the source code for my post on [Building a Blockchain](https://medium.com/p/117428612f46). 
+This is the source code for great Daniel van Flymen post on  [Building a Blockchain](https://medium
+.com/p/117428612f46) with my little modifications. 
 
 ## Installation
 
